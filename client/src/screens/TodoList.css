@@ -1,0 +1,32 @@
+h2{
+  color:brown
+}
+table, td, th {
+  
+  border: 1px solid black;
+}
+.container{
+  margin-left: 10px;
+}
+
+th{
+  background-color: black;
+  color: antiquewhite;
+}
+ tr {
+  width: 25%;
+  background-color: rgb(51, 201, 84);
+  color: black;
+    
+  };
+
+td {
+  width: 25%;
+  };
+
+.edit {
+background-color:blue;
+}
+.delete {
+  background-color:red;
+  }
